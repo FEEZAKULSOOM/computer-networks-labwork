@@ -2,10 +2,9 @@
 
 <div align="center">
   
-  ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/Computer-Networks-Lab-Works)
-  ![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/Computer-Networks-Lab-Works)
+
   ![Semester](https://img.shields.io/badge/Semester-4th-blue)
-  ![Language](https://img.shields.io/badge/Language-Python%20%7C%20C%2B%2B%20%7C%20SQL-orange)
+  
 
   ### 📡 *"Where packets meet practicality"* 
 
@@ -20,7 +19,7 @@
 | **📂 Repository** | `Computer Networks Lab Works` |
 | **🎓 Semester** | 4th Semester (BSCS/BSIT) |
 | **🧪 Lab** | Computer Networks Lab |
-| **📅 Academic Year** | 2024-2025 |
+| **📅 Academic Year** | 2026-2027 |
 | **⚙️ Status** | Active / Complete |
 
 ---
@@ -58,25 +57,6 @@ This repository serves as a **centralized archive** for all my **Computer Networ
 
 </div>
 
----
-
-## 🛠️ Technologies Used
-
-```
-🖧  Cisco Packet Tracer    📡  Wireshark
-🐍  Python (Socket)        ⚙️  C/C++ (Raw Sockets)
-🌐  HTML/CSS (Web Basics)  📊  NS-3 Simulator
-🔌  Postman (API Testing)  📁  GNS3
-```
-
----
-
-## ✨ Featured Lab Works
-
-> ⚡ **Week 3-4**: Implemented TCP 3-way handshake simulation  
-> ⚡ **Week 6**: Dijkstra's Routing Algorithm implementation  
-> ⚡ **Week 8**: Configured VLANs & Static Routing in Cisco  
-> ⚡ **Week 10**: Built a multi-threaded chat server in Python  
 
 ---
 
@@ -90,8 +70,8 @@ This repository serves as a **centralized archive** for all my **Computer Networ
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/FEEZAKULSOOM)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:feezakulsoom42@gmail.com)
 
 **⭐ Star this repo if you find it helpful!**
 
